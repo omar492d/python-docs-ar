@@ -1,0 +1,270 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2001 Python Software Foundation
+# This file is distributed under the same license as the Python package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python 3.15\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-08 02:56-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ar\n"
+"Language-Team: ar <LL@li.org>\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : "
+"n%100>=3 && n%100<=10 ? 3 : n%100>=0 && n%100<=2 ? 4 : 5);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:2
+msgid "Arabic Translation of the Python Documentation"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:4
+msgid ""
+"Use `POedit software <https://poedit.net>`_ to translate .po files in the"
+" tutorial folder."
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:7
+msgid "Where to get help"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:9
+msgid "Abdur-Rahmaan Janhangeer <arj.python@gmail.com>"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:11
+msgid "Fatima Adam <xdjango37@gmail.com>"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:13
+msgid "Mariam Maarouf <mrf.mariam@gmail.com>"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:17
+msgid "Translation Resources"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:19
+msgid "`Microsoft Portal <http://www.microsoft.com/en-us/language/Search>`_"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:21
+msgid ""
+"`The Al-Kilani Dictionary of Computer & Internet Terminology (En/Ar) "
+"<http://www.ldlp-dictionary.com/home/words/99/>`_"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:23
+msgid "`Al ma'aanii <https://www.almaany.com/en/dict/ar-en/buffer/>`_ ."
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:27
+msgid "Glossary"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:29
+msgid ""
+"For consistency in our translations, here are some propositions and "
+"reminders for frequent terms you'll have to translate, don't hesitate to "
+"open an issue if you disagree."
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:34
+msgid "Term"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:34
+msgid "Proposed Translation"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:36
+msgid "-like"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:37
+msgid "abstract data type"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:38
+msgid "argument"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:38
+msgid "وسيطة"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:39
+msgid "backslash"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:40
+msgid "bound"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:41
+msgid "bug"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:41
+msgid "خطأ"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:42
+msgid "built-in"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:42
+msgid "مبني داخليا"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:43
+msgid "call stack"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:44
+msgid "debugging"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:44
+msgid "اصلاح الاخطاء"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:45
+msgid "double quote"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:45
+msgid "علامة اقتباس مزدوجة"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:46
+msgid "e.g."
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:47
+msgid "garbage collector"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:47
+msgid "جامع المهملات"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:48
+msgid "identifier"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:48
+msgid "معرّف"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:49
+msgid "immutable"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:49
+msgid "محمي من التغيير"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:50
+msgid "interpreter"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:50
+msgid "مفسر"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:51
+msgid "library"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:51
+msgid "مكتبة"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:52
+msgid "list comprehension"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:53
+msgid "little-endian, big-endian"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:54
+msgid "mutable"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:54
+msgid "قابل للتغيير"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:55
+msgid "namespace"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:56
+msgid "parameter"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:57
+msgid "prompt"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:58
+msgid "raise"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:59
+msgid "regular expression"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:60
+msgid "return"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:61
+msgid "simple quote"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:62
+msgid "socket"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:63
+msgid "statement"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:63
+msgid "الجمل البرمجية"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:64
+msgid "thread"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:65
+msgid "underscore"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:65
+msgid "شرطة سفلية"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:70
+msgid "Project History"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:72
+#: ../../locales/ar/LC_MESSAGES/README.rst:78
+msgid "TOADD"
+msgstr ""
+
+#: ../../locales/ar/LC_MESSAGES/README.rst:76
+msgid "Maintenance"
+msgstr ""
+
